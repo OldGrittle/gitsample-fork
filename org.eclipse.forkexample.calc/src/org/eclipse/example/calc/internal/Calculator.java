@@ -45,6 +45,7 @@ public class Calculator {
 	}
 
 	private void calculate(String cmdName) {
+		// Nooch ein Kommentar
 		float curValue;
 		float newValue = 0;
 
@@ -110,6 +111,7 @@ public class Calculator {
 	}
 
 	public void setClearText(boolean clearText) {
+		// Hier einen Kommentar eingebaut
 		this.clearText = clearText;
 	}
 } //Änderung wird eingefügt
