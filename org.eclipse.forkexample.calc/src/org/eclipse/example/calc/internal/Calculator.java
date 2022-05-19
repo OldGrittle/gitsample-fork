@@ -108,6 +108,7 @@ public class Calculator {
 	}
 
 	public void setClearText(boolean clearText) {
+		// Hier einen Kommentar eingebaut
 		this.clearText = clearText;
 	}
 }
