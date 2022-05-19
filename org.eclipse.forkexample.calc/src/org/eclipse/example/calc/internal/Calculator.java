@@ -43,6 +43,7 @@ public class Calculator {
 	}
 
 	private void calculate(String cmdName) {
+		// Nooch ein Kommentar
 		float curValue;
 		float newValue = 0;
 
